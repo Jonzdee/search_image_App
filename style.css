@@ -107,10 +107,15 @@ form {
   .search-result {
     width: 45%;
   }
+   h1{
+    font-size:10px
+}
 }
 
 @media screen and (max-width: 480px) {
   .search-result {
     width: 100%;
   }
+  h1{
+    font-size:10px
 }
